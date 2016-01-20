@@ -8,4 +8,4 @@ The functions allowed by the stack are:
   - pop()
   - top()
 
-in order to use it you will need to also download the DLL.h file under my Linked-Lists repository
+in order to use it you will need to also download the DLL.h file under my Linked-List-C repository
